@@ -2,6 +2,12 @@
 
 You and your team are building a JavaScript application to allow art-interested folks to browse museums and see artwork that each contains.
 
+## Install dependencies
+
+```
+npm install
+```
+
 ## Create a database
 
 Create a database in `psql` for the lab, called `sequelize_lab`
