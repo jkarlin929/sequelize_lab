@@ -7,8 +7,7 @@ const sequelize = new Sequelize({
 
 
 
-// Create the tables in the database.
-sequelize.sync();
+
 
 module.exports = {
   Artist,
