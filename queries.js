@@ -26,6 +26,10 @@ const main = async () => {
   // You decide to take a class in modern art history, and want to
   // go see some relevant artworks.
   // Write a query to find artworks created after 1940 made out of Oil Paint.
+
+  // Write a query to find artworks created before 1930, ordered by name alphabetically.
+  
+  // Write a query to find the first five artworks made out of glass, ordered by year.
 };
 
 main();
