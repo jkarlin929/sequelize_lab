@@ -5,7 +5,9 @@ const sequelize = new Sequelize({
   dialect: 'postgres',
 });
 
-
+const Museum = sequelize.define('museum', {
+  name: Sequelize.STRING
+})
 
 
 
